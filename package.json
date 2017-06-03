@@ -1,6 +1,6 @@
 {
-  "name": "awesome-project",
-  "description": "awesome-project",
+  "name": "weexrun",
+  "description": "weex-run",
   "version": "0.1.0",
   "private": true,
   "main": "index.js",
